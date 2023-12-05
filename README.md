@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
-- 💬 Ask me about **DSA, React js, Node js, Express js ,MongoDB**
+- 💬 Ask me about **DSA,React native,MERN Stack**
 
 - 📫 How to reach me **iamraju.eu56@gmail.com**
 
