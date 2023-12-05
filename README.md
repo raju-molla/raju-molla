@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working with **A1 DIGI**
+- 🔭 I’m currently working with **Bimady**
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
