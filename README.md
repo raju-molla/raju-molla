@@ -1,4 +1,3 @@
-- <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="URL_TO_PYTHON_LOGO" alt="Python" width="40" height="40"/> </a>
 
 
 <h1 align="center">Hi 👋, I'm Raju Molla</h1>
