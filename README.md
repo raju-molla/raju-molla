@@ -56,7 +56,8 @@
 - Inter programming contest 2019 (Varendra University) position 36th
 
 - Intra programming contest 2019 (EU) position: 9th
-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raju-molla&show_icons=true&locale=en&layout=compact" alt="raju molla" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raju-molla&show_icons=true&locale=en&layout=compact" alt="raju molla" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raju-molla&" alt="raju-molla" /></p>
