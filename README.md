@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working with **Bimady**
 
-- 🌱 I’m currently learning **Data Structure and Algorithm**
-
 - 💬 Ask me about **DSA,React native,MERN Stack**
 
 - 📫 How to reach me **iamraju.eu56@gmail.com**
