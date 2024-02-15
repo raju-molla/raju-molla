@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **iamraju.eu56@gmail.com**
 
-- 📄 Know about my experiences https://www.dropbox.com/scl/fi/w2nkj5ogsvggc6rnqchu5/Raju_EU_2023.pdf?rlkey=99860chhxk1etu2dty51p5vsc&dl=0
+- 📄 Know about my experiences https://www.canva.com/design/DAF8vIo1OWc/d1DUmOawPC5aUEIEhxML5Q/view?
 
 - ⚡ Fun fact **Hangout**
 
