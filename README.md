@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working with **Bimady**
+- 🔭 I’m currently working with **Qtec solution**
 
 - 💬 Ask me about **DSA,React native,MERN Stack**
 
