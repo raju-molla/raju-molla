@@ -1,62 +1,62 @@
-
-
 <h1 align="center">Hi 👋, I'm Raju Molla</h1>
-<h3 align="center">A passionate Competitive Programmers and MERN Stack Developer from Bangaldesh.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<h3 align="center">Cybersecurity Researcher | Software Engineer | AI for Cybersecurity Enthusiast</h3>
 
+<img align="right" alt="Cybersecurity" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
+* 🔭 Currently pursuing an **MSc in Cybersecurity & Digital Forensics** and conducting research on **Adaptive Intrusion Detection Systems for Edge–Cloud–IoT Environments**
 
-- 🔭 I’m currently working with **Qtec solution**
+* 💼 Former **Software Engineer at Qtec Solution Ltd.** and **React Native Engineer at Bimafy Ltd.**
 
-- 💬 Ask me about **DSA,React native,MERN Stack**
+* 🛡️ Research interests: **AI for Cybersecurity, Intrusion Detection Systems, Federated Learning, Explainable AI (XAI), Adversarial Machine Learning, IoT Security, Cloud Security, and Digital Forensics**
 
-- 📫 How to reach me **iamraju.eu56@gmail.com**
+* 🌱 Currently exploring **Threat Detection, Browser Security, Privacy-Preserving Machine Learning, and Adaptive Cyber Defence**
 
-- 📄 Know about my experiences https://www.canva.com/design/DAF8vIo1OWc/d1DUmOawPC5aUEIEhxML5Q/view?
+* 💬 Ask me about **Cybersecurity, Machine Learning, Intrusion Detection Systems, Python, Node.js, React, Cloud Security, and Software Engineering**
 
-- ⚡ Fun fact **Hangout**
+* 🏆 Top **3% globally on TryHackMe** with 110+ hands-on cybersecurity labs completed
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/raju-molla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="raju-molla" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raju-molla-7574bb193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raju-molla-7574bb193" height="30" width="40" /></a>
-<a href="https://fb.com/100015699992884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100015699992884" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rajumolla2754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rajumolla2754" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aju_molla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aju_molla" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/eu_dragons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eu_dragons" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/raju_molla56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="raju_molla56" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/raju56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raju56" height="30" width="40" /></a>
-<a href="https://discord.gg/raju6289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="raju6289" height="30" width="40" /></a>
-</p>
+* 📚 Author of the **IoT-CloudSec** cybersecurity benchmark dataset and researcher in adaptive threat detection
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
-<h2>Competitive Programming</h2>
+* 📫 Reach me at: **[rajumolla.tech@gmail.com](mailto:rajumolla.tech@gmail.com)**
 
-- ICPC dahak regional contest 2023
+* 🌍 Based in **London, United Kingdom**
 
-- CEFALO SUST Inter-University Programming Contest (2023): Participants 
+* ⚡ Fun fact: I enjoy solving cybersecurity challenges, researching emerging threats, and competitive programming
 
-- EU 38th Intra Faculty Programming Contest (2022) position: Champion
+---
 
-- EU 37th Intra Faculty Programming Contest (2022) position: Champion 
+### 📝 Research Publications
 
-- BUET Inter-University Programming Contest 2022
+* **Beyond Permissions: Multi-Layer Monitoring and Forensic Behaviour Graph Analysis for Detecting Hidden and Collusive Chrome Extensions** *(Submitted to Forensic Science International: Digital Investigation)*
 
-- EU 36th Intra Faculty Programming Contest (2022) position: 1st Runner up 
+* **IoT-CloudSec: A Multi-Protocol, Multi-Context Simulation Benchmark for Leakage-Aware IoT Intrusion Detection Evaluation** *(Submitted to Information Systems)*
 
-- Icpc preliminary programming contest- 2021
+---
 
-- Intra programming contest 2021 (EU-34th) position: 6th
+### 🚀 Featured Projects
 
-- Intra programming contest 2021(EU-33th) position: 7th
+#### IoT-CloudSec Research Framework
 
-- Inter programming contest 2019 (Varendra University) position 36th
+* Hybrid Intrusion Detection System using Random Forest, XGBoost, LSTM, and Autoencoder models
+* Explainable AI analysis using SHAP
+* Adaptive threat detection across IoT, Edge, and Cloud infrastructures
 
-- Intra programming contest 2019 (EU) position: 9th
+#### UMIS-v2 Distributed Microfinance System
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raju-molla&show_icons=true&locale=en&layout=compact" alt="raju molla" /></p>
+* Developed scalable backend services for a multi-country financial platform
+* Designed secure APIs and transaction-processing workflows
 
+#### Secure Healthcare API System
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raju-molla&" alt="raju-molla" /></p>
+* Built secure RESTful APIs with authentication and authorization
+* Focused on privacy protection and healthcare data security
 
+---
+
+### 🏅 Achievements
+
+* 🛡️ Top 3% Globally on TryHackMe
+* 🏆 Champion – Eastern University Programming Contest (37th & 38th)
+* 🌏 ICPC Dhaka Regional Contest 2023 Participant
+* 📖 Published IoT-CloudSec Benchmark Dataset on IEEE DataPort
+* 🔬 Active Researcher in AI-powered Cybersecurity and Intrusion Detection
