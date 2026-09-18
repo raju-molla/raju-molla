@@ -1,276 +1,324 @@
 <div align="center">
 
-# 👋 Hi, I'm Raju Molla
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=RAJU%20MOLLA&fontSize=55&fontAlignY=35&desc=Cybersecurity%20Researcher%20%7C%20Software%20Engineer%20%7C%20AI%20Security&descAlignY=58&animation=fadeIn"/>
 
-### 🛡️ Cybersecurity Researcher · 💻 Software Engineer · 🤖 AI for Cybersecurity
-
-**MSc Cybersecurity & Digital Forensics | AI-Powered Threat Detection | Edge–Cloud–IoT Security**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=700&center=true&vCenter=true&repeat=true&width=850&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Raju+Molla;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Researcher;%F0%9F%A4%96+AI+for+Cybersecurity;%F0%9F%94%8D+Intrusion+Detection+Systems;%E2%98%81%EF%B8%8F+Edge+%E2%86%94+Cloud+%E2%86%94+IoT+Security;%F0%9F%A7%A0+Explainable+%26+Adaptive+AI;%F0%9F%94%90+Detect+%E2%80%A2+Explain+%E2%80%A2+Adapt+%E2%80%A2+Defend" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00C7B7&center=true&vCenter=true&width=750&lines=Cybersecurity+Researcher+%F0%9F%94%90;AI+for+Cybersecurity+%F0%9F%A4%96;Intrusion+Detection+Systems+%F0%9F%9B%A1%EF%B8%8F;Edge+%E2%80%A2+Cloud+%E2%80%A2+IoT+Security+%E2%98%81%EF%B8%8F;Building+Adaptive+Cyber+Defence+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+```text
+┌──(raju㉿cyberlab)-[~/research]
+└─$ whoami
 
-<br/><br/>
+  Cybersecurity Researcher
+  Software Engineer
+  AI × Cybersecurity Researcher
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420" alt="Cybersecurity and Programming"/>
+┌──(raju㉿cyberlab)-[~/mission]
+└─$ cat current_research.txt
+
+  > Adaptive Intrusion Detection
+  > Edge–Cloud–IoT Security
+  > Explainable Artificial Intelligence
+  > Privacy-Preserving Machine Learning
+  > Digital Forensics
+
+┌──(raju㉿cyberlab)-[~/status]
+└─$ echo $MISSION
+
+  "Detect. Explain. Adapt. Defend."
+```
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-rajumolla.tech%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rajumolla.tech@gmail.com)
-![Location](https://img.shields.io/badge/London-United%20Kingdom-0078D4?style=for-the-badge\&logo=googlemaps\&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-00C7B7?style=for-the-badge\&logo=hackthebox\&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-rajumolla.com-00C7B7?style=for-the-badge)](https://rajumolla.com)
+[![Email](https://img.shields.io/badge/📧_EMAIL-Contact_Me-EA4335?style=for-the-badge)](mailto:rajumolla.tech@gmail.com)
+![London](https://img.shields.io/badge/📍_LONDON-UNITED_KINGDOM-0078D4?style=for-the-badge)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ `> INITIALIZING PROFILE...`
 
-```python
-class RajuMolla:
-    def __init__(self):
-        self.location = "London, United Kingdom 🇬🇧"
-        self.education = "MSc Cybersecurity & Digital Forensics"
-        self.roles = [
-            "Cybersecurity Researcher",
-            "Software Engineer",
-            "AI for Cybersecurity Enthusiast"
-        ]
+<img align="right" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-        self.research = [
-            "Intrusion Detection Systems",
-            "AI for Cybersecurity",
-            "Federated Learning",
-            "Explainable AI (XAI)",
-            "Adversarial Machine Learning",
-            "IoT & Cloud Security",
-            "Digital Forensics"
-        ]
+```yaml
+identity:
+  name: "Raju Molla"
+  location: "London, United Kingdom 🇬🇧"
 
-        self.current_mission = (
-            "Building adaptive and explainable threat detection "
-            "for Edge–Cloud–IoT environments."
-        )
+education:
+  degree: "MSc Cybersecurity & Digital Forensics"
 
-    def motto(self):
-        return "Detect. Explain. Adapt. Defend. 🛡️"
+experience:
+  - "Software Engineer @ Qtec Solution Ltd."
+  - "React Native Engineer @ Bimafy Ltd."
+
+current_research:
+  - "Adaptive Intrusion Detection Systems"
+  - "AI for Cybersecurity"
+  - "Edge–Cloud–IoT Security"
+
+achievement:
+  tryhackme: "Top 3% Globally 🛡️"
+  labs: "110+"
 ```
 
-🔭 I'm currently pursuing an **MSc in Cybersecurity & Digital Forensics**, with research focused on **Adaptive Intrusion Detection Systems for Edge–Cloud–IoT Environments**.
-
-💼 Previously worked as a **Software Engineer at Qtec Solution Ltd.** and **React Native Engineer at Bimafy Ltd.**
-
-🧠 My research interests include **AI for Cybersecurity, Intrusion Detection Systems, Federated Learning, Explainable AI (XAI), Adversarial Machine Learning, IoT Security, Cloud Security, and Digital Forensics**.
-
-🌱 Currently exploring **Threat Detection, Browser Security, Privacy-Preserving Machine Learning, and Adaptive Cyber Defence**.
-
-💬 Ask me about **Cybersecurity, Machine Learning, IDS, Python, Node.js, React, Cloud Security, and Software Engineering**.
-
-🏆 Ranked in the **Top 3% globally on TryHackMe**, with **110+ hands-on cybersecurity labs** completed.
-
-📚 Creator of the **IoT-CloudSec cybersecurity benchmark dataset**, supporting research into realistic and adaptive intrusion detection.
-
-⚡ When I'm not building or researching, you'll probably find me solving **cybersecurity challenges or competitive programming problems**.
+<br clear="right"/>
 
 ---
 
-## 🔬 Research Focus
+## 🧠 `> LOADING RESEARCH MODULES...`
 
 <div align="center">
 
-|  🛡️ Cybersecurity  | 🤖 Artificial Intelligence |  ☁️ Infrastructure  |
-| :-----------------: | :------------------------: | :-----------------: |
-| Intrusion Detection |      Machine Learning      |    Cloud Security   |
-|   Threat Detection  |       Explainable AI       |    Edge Computing   |
-|  Digital Forensics  |     Federated Learning     |     IoT Security    |
-|   Browser Security  |       Adversarial ML       | Distributed Systems |
-|   Adaptive Defence  |    Privacy-Preserving ML   |     Secure APIs     |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=400&center=true&vCenter=true&multiline=false&repeat=true&width=850&lines=%5B%2B%5D+Loading+Intrusion+Detection...;%5B%2B%5D+Loading+Explainable+AI...;%5B%2B%5D+Loading+Federated+Learning...;%5B%2B%5D+Loading+IoT+Security...;%5B%2B%5D+Loading+Digital+Forensics...;%5B%E2%9C%93%5D+Cyber+Defence+Systems+Online." />
 
 </div>
 
-> **Research Goal:** Build intelligent security systems that can **detect, explain, and adapt to emerging cyber threats** across distributed Edge–Cloud–IoT environments.
+<br/>
+
+<div align="center">
+
+|     🛡️ SECURITY    |       🤖 AI / ML      |      ☁️ SYSTEMS     |
+| :-----------------: | :-------------------: | :-----------------: |
+| Intrusion Detection |    Machine Learning   |    Cloud Security   |
+|   Threat Detection  |     Explainable AI    |    Edge Computing   |
+|  Digital Forensics  |   Federated Learning  |     IoT Security    |
+|   Browser Security  |     Adversarial ML    | Distributed Systems |
+|   Adaptive Defence  | Privacy-Preserving ML |     Secure APIs     |
+
+</div>
 
 ---
 
-## 📝 Research Publications
+# 🔬 `RESEARCH://PUBLICATIONS`
 
-### 🔎 Beyond Permissions
+### 🕵️ Beyond Permissions
 
-**Multi-Layer Monitoring and Forensic Behaviour Graph Analysis for Detecting Hidden and Collusive Chrome Extensions**
-
-📄 *Submitted to Forensic Science International: Digital Investigation*
+> **Multi-Layer Monitoring and Forensic Behaviour Graph Analysis for Detecting Hidden and Collusive Chrome Extensions**
 
 `Browser Security` `Digital Forensics` `Behaviour Graphs` `Threat Detection`
+
+📄 **Submitted to:** *Forensic Science International: Digital Investigation*
 
 ---
 
 ### 🌐 IoT-CloudSec
 
-**A Multi-Protocol, Multi-Context Simulation Benchmark for Leakage-Aware IoT Intrusion Detection Evaluation**
+> **A Multi-Protocol, Multi-Context Simulation Benchmark for Leakage-Aware IoT Intrusion Detection Evaluation**
 
-📄 *Submitted to Information Systems*
+`IoT Security` `IDS` `Machine Learning` `Benchmark Dataset` `Edge–Cloud`
 
-`IoT Security` `Intrusion Detection` `Machine Learning` `Benchmark Dataset` `Edge–Cloud`
+📄 **Submitted to:** *Information Systems*
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 `> PROJECTS --featured`
 
 ### 🛡️ IoT-CloudSec Research Framework
 
-> **Adaptive intrusion detection for IoT, Edge, and Cloud environments**
+```text
+┌──────────────────────────────────────────────────────┐
+│              IoT-CLOUDSEC PIPELINE                   │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│   IoT Devices                                        │
+│       │                                              │
+│       ▼                                              │
+│   Network Traffic                                    │
+│       │                                              │
+│       ▼                                              │
+│   ┌───────────────┐                                  │
+│   │ Adaptive IDS  │                                  │
+│   └───────┬───────┘                                  │
+│           │                                          │
+│    ┌──────┼────────┬──────────┐                      │
+│    ▼      ▼        ▼          ▼                      │
+│   RF   XGBoost    LSTM    Autoencoder                │
+│    └──────┬────────┴──────────┘                      │
+│           ▼                                          │
+│      SHAP / XAI                                      │
+│           │                                          │
+│           ▼                                          │
+│   Explainable Threat Detection                       │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
 
-* 🤖 Hybrid IDS using **Random Forest, XGBoost, LSTM, and Autoencoder**
-* 🔍 Explainable AI analysis using **SHAP**
-* 🌐 Multi-protocol IoT traffic simulation
-* ☁️ Edge–Cloud threat detection architecture
-* 🧪 Leakage-aware machine-learning evaluation
-* ⚡ Adaptive detection across distributed infrastructure
+🤖 **Random Forest · XGBoost · LSTM · Autoencoder**
 
-**Tech:** `Python` · `Machine Learning` · `XGBoost` · `LSTM` · `Autoencoder` · `SHAP` · `IoT`
+🔍 **Explainability with SHAP**
 
----
+⚡ **Adaptive threat detection**
 
-### 💳 UMIS-v2 Distributed Microfinance System
-
-> **Scalable backend infrastructure for a multi-country financial platform**
-
-* ⚙️ Developed scalable backend services
-* 🔐 Designed secure API architectures
-* 💳 Built transaction-processing workflows
-* 🌍 Supported distributed multi-country operations
-* 🛡️ Applied security-focused backend engineering practices
-
-**Tech:** `Node.js` · `REST APIs` · `Backend Engineering` · `Distributed Systems`
-
----
-
-### 🏥 Secure Healthcare API System
-
-> **Security-focused API architecture for sensitive healthcare data**
-
-* 🔐 Secure RESTful API development
-* 👤 Authentication and authorization
-* 🛡️ Privacy-focused system design
-* 📊 Secure healthcare data handling
-* ⚙️ Backend security best practices
-
-**Tech:** `Node.js` · `REST API` · `Authentication` · `Authorization` · `Security`
+☁️ **Edge–Cloud–IoT architecture**
 
 ---
 
-## 🧰 Tech & Security Arsenal
+### 💳 UMIS-v2
 
-### 👨‍💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp" />
-</p>
-
-### 🌐 Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,html,css" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
-</p>
-
-### 🛡️ Cybersecurity & Research
-
-`Intrusion Detection` · `Network Security` · `Digital Forensics` · `IoT Security`
-`Cloud Security` · `Browser Security` · `Threat Detection` · `Explainable AI`
-`Federated Learning` · `Adversarial ML` · `Privacy-Preserving ML`
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-| 🏆 Achievement                                | 🎯 Milestone                       |
-| --------------------------------------------- | ---------------------------------- |
-| 🛡️ **TryHackMe**                             | **Top 3% Globally**                |
-| 💻 **Cybersecurity Labs**                     | **110+ Completed**                 |
-| 🥇 **Eastern University Programming Contest** | **Champion — 37th & 38th**         |
-| 🌏 **ICPC Dhaka Regional Contest**            | **2023 Participant**               |
-| 📖 **IEEE DataPort**                          | **IoT-CloudSec Benchmark Dataset** |
-| 🔬 **Research**                               | **AI-Powered Cybersecurity & IDS** |
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
-> ⚠️ Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-
-</div>
-
----
-
-## 🎯 Current Mission
+**Distributed Multi-Country Microfinance Platform**
 
 ```text
-[+] Building adaptive intrusion detection systems
-[+] Exploring AI-powered cyber defence
-[+] Researching Edge–Cloud–IoT security
-[+] Investigating malicious browser extensions
-[+] Developing explainable threat detection models
-[+] Learning something new every day...
+Client
+  │
+  ▼
+Secure API Gateway
+  │
+  ├──── Authentication
+  ├──── Authorization
+  ├──── Transactions
+  └──── Business Services
+           │
+           ▼
+      Data Layer
+```
+
+`Node.js` `REST API` `Distributed Systems` `Backend Security`
+
+---
+
+### 🏥 Secure Healthcare API
+
+```text
+REQUEST
+   │
+   ▼
+Authentication
+   │
+   ▼
+Authorization
+   │
+   ▼
+Secure API
+   │
+   ▼
+Protected Healthcare Data 🔐
+```
+
+`Authentication` `Authorization` `Privacy` `API Security`
+
+---
+
+# 🧰 `> cat tech_stack.conf`
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp&theme=dark"/>
+
+### ⚙️ Engineering
+
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,docker,git,github&theme=dark"/>
+
+### ☁️ Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,linux,mysql,postgres,mongodb,redis&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1200&pause=250&center=true&vCenter=true&width=900&lines=Python+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;Cybersecurity+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;Machine+Learning+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91;Cloud+Security+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91;Digital+Forensics+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91"/>
+
+</div>
+
+---
+
+# 🏆 `ACHIEVEMENTS.log`
+
+```text
+[✓] Top 3% Globally — TryHackMe
+[✓] 110+ Cybersecurity Labs Completed
+[✓] Champion — Eastern University Programming Contest (37th)
+[✓] Champion — Eastern University Programming Contest (38th)
+[✓] ICPC Dhaka Regional Contest 2023
+[✓] IoT-CloudSec Benchmark — IEEE DataPort
+[✓] Active Research — AI × Cybersecurity
 ```
 
 ---
 
-## 🤝 Let's Connect
-
-I'm interested in collaborating on **cybersecurity research, AI-powered threat detection, intrusion detection systems, IoT/Cloud security, digital forensics, and privacy-preserving machine learning**.
-
-If you're working on something interesting in these areas, feel free to reach out.
+# 📊 `> github --stats`
 
 <div align="center">
 
-### 📫 `rajumolla.tech@gmail.com`
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-[![Email](https://img.shields.io/badge/Let's%20Connect-Email%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rajumolla.tech@gmail.com)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<br/>
+<br/><br/>
 
-### 🛡️ Detect · 🔍 Explain · ⚡ Adapt · 🔐 Defend
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00c7b7&style=flat-square" alt="Profile views"/>
-
-⭐ **Thanks for visiting my profile!**
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </div>
+
+---
+
+# 🐍 `> ./visualize-contributions.sh`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
+
+</div>
+
+---
+
+# 🎯 `LIVE://CURRENT_MISSION`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2200&pause=500&center=true&vCenter=true&repeat=true&width=900&lines=%5B%2B%5D+Building+Adaptive+Intrusion+Detection+Systems;%5B%2B%5D+Researching+Edge%E2%80%93Cloud%E2%80%93IoT+Security;%5B%2B%5D+Investigating+Malicious+Browser+Extensions;%5B%2B%5D+Developing+Explainable+Threat+Detection;%5B%2B%5D+Exploring+Privacy-Preserving+Machine+Learning;%5B%E2%9A%A1%5D+Building+Intelligent+Cyber+Defence..." />
+
+</div>
+
+---
+
+# 🌐 `> open https://rajumolla.com`
+
+<div align="center">
+
+## 🚀 Explore My Portfolio
+
+### Research · Cybersecurity · Engineering · Projects · Experience
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_ENTER_MY_PORTFOLIO-rajumolla.com-00C7B7?style=for-the-badge)](https://rajumolla.com)
+
+<br/><br/>
+
+**→ [rajumolla.com](https://rajumolla.com) ←**
+
+</div>
+
+---
+
+# 🤝 `> connect --with-raju`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Interested+in+Cybersecurity%3F;Working+on+AI+Security%3F;Researching+Intrusion+Detection%3F;Let's+build+something+impactful." />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rajumolla.com-00C7B7?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://rajumolla.com)
+[![Email](https://img.shields.io/badge/Email-rajumolla.tech%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rajumolla.tech@gmail.com)
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=00c7b7&style=for-the-badge"/>
+
+<br/><br/>
+
+### 🛡️ `DETECT` → 🔍 `EXPLAIN` → ⚡ `ADAPT` → 🔐 `DEFEND`
+
+**Building intelligent systems for a safer digital world.**
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&animation=fadeIn"/>
